@@ -3,9 +3,15 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
+import { useTranslation } from "next-i18next";
+
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+
+  const { t } = useTranslation(['common']);
+
   return (
     <>
       <Head>
@@ -17,7 +23,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            Get started by editing  {t("text")} 
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
@@ -111,4 +117,13 @@ export default function Home() {
       </main>
     </>
   )
+}
+
+export async function getStaticProps({ locale }) {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale, ['common'])),
+      // Will be passed to the page component as props
+    },
+  }
 }
