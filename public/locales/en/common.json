@@ -1,3 +1,119 @@
 {
-    "text" : "new text"
+  "home": {
+    "title": "QR Menu",
+    "revolution": "A revolution in menu visualization",
+    "more": "Learn more",
+    "take" :"Try it",
+    "scan" : "Scan the QR code",
+    "bottom" : "Open up a new way for your customers to explore gastronomic delights with our menu!",
+    "about":{
+      "title" : "Digital QR Menu",
+      "text" : "Our app offers an excellent solution! We turn ordinary menu text into intuitive photos and short dish descriptions.\n\nThe presence of a QR menu with photos increases the average order amount. When guests can see appetizing photos of dishes and read about their ingredients and features, it makes the selection process more attractive and encourages them to order more dishes or additional drinks."
+    },
+    "fun" : {
+      "title" : "Advantages",
+      "list" : [
+        {"title" : "Visualization", "text" : "Customers can view the menu by scanning the QR code on the restaurant table. No need to wait for a waiter."},
+        {"title" : "Multilingual", "text" : "Convenient menu language change - more guests, including foreigners."},
+        {"title" : "Quick Search", "text" : "If the menu is extensive, the search will help the customer easily find what they need or get the necessary recommendations."},
+        {"title" : "Recommendations", "text" : "Your customers will have the opportunity to leave their feedback, helping others make their choice easier."},
+        {"title" : "Informativeness", "text" : "Your customers will receive more additional information about the restaurant (social networks, Wi-Fi password, and contact information)."},
+        {"title" : "Appetite Boost", "text" : "Photos increase appetite - higher average check."}
+      ]
+    },
+    "mod": {
+      "title" : "",
+      "list" :[
+        "The ability to post QR menu in your social networks",
+        "Unlimited number of categories and items",
+        "The ability to hide and restrict availability with one click",
+        "Old / new price feature",
+        "Ability to mark vegetarian and spicy dishes",
+        "QR generation from the app",
+        "Currency selection",
+        "Ability to use as needed",
+        "Menu version for mobile and desktop devices",
+        "Ability to edit the menu remotely",
+        "The ability to edit the menu of a restaurant network from one account",
+        "Ability to specify ingredients",
+        "Ability to specify the menu in multiple languages",
+        "Ability to specify additional information (address, phone, Wi-Fi password, social networks)",
+        "Posting special offers"
+      ]
+    },
+    "comments":[
+      "This is my first time in this restaurant, what would you recommend?",
+      "I have allergies, are there any nuts here?",
+      "What's on the traditional menu?",
+      "What interesting and unusual can I order from the menu?",
+      "I don't understand anything, I'll check on Google Maps how it looks.",
+      "What's the portion size, last time we overate!",
+      "What's the portion size, last time we overate!",
+      "Good thing there's at least English!",
+      "What interesting and unusual can I order today?"
+    ],
+    "quest" : {
+      "title": "Questions and Answers",
+      "list":[
+        {
+          "title":"Why is the electronic menu better than the paper or PDF version?",
+          "text":"Customers can view the menu by scanning the QR code on the restaurant table. No need to wait for a waiter to offer a paper version."
+        },
+        {
+          "title":"Can I try it first to see if it suits us?",
+          "text":"Customers can view the menu by scanning the QR code on the restaurant table. No need to wait for a waiter to offer a paper version."
+        },
+        {
+          "title":"Can I change my menu myself?",
+          "text":"Customers can view the menu by scanning the QR code on the restaurant table. No need to wait for a waiter to offer a paper version."
+        },
+        {
+          "title":"Do I need to change the QR code after changing the information in the menu?",
+          "text":"Customers can view the menu by scanning the QR code on the restaurant table. No need to wait for a waiter to offer a paper version."
+        }
+      ]
+    },
+    "price" : {
+      "title" : "QR Menu Service Cost",
+      "list" : [
+        {"price":10,"period":"1 month","total":"Payment for 1 month\n only $10"},
+        {"price":9.5,"period":"half a year","total":"Payment for 6 months\n only $57.6","title":"Seasonal"},
+        {"price":8,"period":"1 year","total":"Payment for 1 year\n only $96"}
+      ],  
+      "free": {
+        "title": "Trial Period",
+        "text" : "You can try our service for free for 1 month and decide if it's right for you."
+      }
+    }
+  },
+  "modal":{
+    "title": "Sign Up",
+    "name" : "Your Name:",
+    "resname" : "Establishment Name:",
+    "mail" : "Email:",
+    "pas" : {
+      "name":"Password:",
+      "ph" : "+5 characters"
+    },
+    "create": "Create Account",
+    "rule" : "You can find our terms of use at <linkTag>this link.</linkTag>",
+    "send":{
+      "title":"Thank you for registering!",
+      "text" :"Our app is undergoing final testing, we will contact you soon and inform you about the next steps."
+    },
+    "enter":{
+      "title":"Sign in",
+      "button":"Enter",
+      "recovery" : "Recovery password"
+    }
+  },
+  "header" : {
+    "ukraine":"We are from Ukraine, and we continue to work. Thank you for your support. You can also read about the current situation in Ukraine on the official website",
+    "account":"Account"
+  },
+  "footer": {
+    "contacts" : "Contacts",
+    "rules" : "Terms of Service"
+  },
+  "localeName" : "English"
 }

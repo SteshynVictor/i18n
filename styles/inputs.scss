@@ -1,0 +1,38 @@
+/**/
+input,
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-internal-autofill-selected,
+
+textarea,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+
+select,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    box-shadow: none !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    width: 100%;
+    resize: none;
+    position:relative;
+    background-color: transparent !important;
+}
+
+::-webkit-input-placeholder {
+    color:#777;
+}
+
+input{
+    border:none;
+    width: 100%;
+    font-size: 16px;
+    padding:10px 0px;
+    border-bottom:2px solid #000;
+}

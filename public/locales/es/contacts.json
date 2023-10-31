@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "title": "Contacto para Dishmenu Guide. Menú QR en línea",
+        "descr": "Preguntas y respuestas sobre los menús QR y nuestra aplicación. Contáctenos a través de mensajería sobre la aplicación y su funcionamiento."
+    },
+    "title": "Contáctenos a través de mensajería",
+    "text": "Siempre estamos listos para responder sus preguntas y brindar ayuda. Nuestro equipo está disponible en varios servicios de mensajería, por lo que puede comunicarse con nosotros de manera rápida y conveniente.",
+    "mes": {
+        "tg": "Chatee con nosotros en Telegram",
+        "ms": "Envíenos un mensaje en Messenger",
+        "wa": "Envíenos un mensaje en WhatsApp"
+    },
+    "email": "Correo electrónico"
+}

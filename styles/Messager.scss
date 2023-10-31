@@ -1,0 +1,61 @@
+.messager{
+    bottom:20px;
+    right:10px;
+    position:fixed;
+    display:block;
+    border-radius:40px;
+    padding:10px;
+    z-index: 100;
+    cursor:pointer;
+}
+
+
+.messager-main{
+    height:55px;
+    width: 55px;;
+    border-radius: 100%;
+    background:url(/img/messager/mes.png) no-repeat 53% 45% #FFA724;
+    background-size: 30px auto;
+    position: relative;
+    z-index: 10;
+    transition: background-color 0.5s cubic-bezier(0.075, 0.82, 0.165, 1)
+}
+
+.messager._active .messager-main{
+    background-image:url(/img/messager/close.png);
+    background-color: #FFFFFF;
+    background-size: 20px auto;
+}
+
+.messager-block{
+    opacity:0;
+    margin-bottom:-100%;
+    pointer-events: none;
+    visibility: hidden;
+    transition:0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.messager._active .messager-block{
+    display:grid;
+    grid-gap:10px;
+    opacity:1;
+    margin:5px 0px 20px;
+    pointer-events: all;
+    visibility: visible;
+    align-items: center;
+    justify-content: center;
+}
+
+.messager-icon{
+    border-radius:100%;
+    height:55px;
+    width: 55px;
+    background-position: 50% 50%;
+    background-size: 25px auto;
+    background-repeat: no-repeat;
+}
+
+.messager-icon._tg{background-image:url(/img/messager/tg.png);background-color: #33A5E1;}
+.messager-icon._wa{background-image:url(/img/messager/wa.png);background-color: #4DAF51;}
+.messager-icon._vb{background-image:url(/img/messager/vb.png);background-color: #784F9A;}
+.messager-icon._ph{background-image:url(/img/messager/phone.png);background-color: #333;}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "title": "Contacts for Dishmenu Guide. Online QR Menu",
+        "descr": "Questions and answers about QR menus and our app. Contact us in messengers regarding the app and its operation."
+    },
+    "title": "Get in Touch with Us in Messengers",
+    "text": "We are always ready to answer your questions and provide assistance. Our team is available to you in various messengers, so you can reach out to us quickly and conveniently.",
+    "mes": {
+        "tg": "Chat with us on Telegram",
+        "ms": "Message us on Messenger",
+        "wa": "Message us on WhatsApp"
+    },
+    "email": "Email"
+}

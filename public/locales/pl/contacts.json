@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "title": "Kontakt do Dishmenu Guide. Online Menu QR",
+        "descr": "Pytania i odpowiedzi dotyczące menu QR i naszej aplikacji. Skontaktuj się z nami za pomocą komunikatorów w sprawie aplikacji i jej działania."
+    },
+    "title": "Skontaktuj się z nami za pomocą komunikatorów",
+    "text": "Jesteśmy zawsze gotowi odpowiedzieć na twoje pytania i udzielić pomocy. Nasz zespół jest dostępny w różnych komunikatorach, więc możesz szybko i wygodnie się z nami skontaktować.",
+    "mes": {
+        "tg": "Porozmawiaj z nami na Telegramie",
+        "ms": "Wyślij nam wiadomość na Messengerze",
+        "wa": "Wyślij nam wiadomość na WhatsAppie"
+    },
+    "email": "E-mail"
+}

@@ -1,0 +1,119 @@
+{
+  "home": {
+    "title": "Menú QR",
+    "revolution": "Revolución en la visualización del menú",
+    "more": "Aprender más",
+    "take": "Probar",
+    "scan": "Escanear código QR",
+    "bottom": "¡Abre una nueva forma de descubrimientos gastronómicos para tus clientes con nuestro menú!",
+    "about": {
+      "title": "Menú QR digital",
+      "text": "¡Nuestra aplicación ofrece una solución excepcional! Transformamos el menú de texto normal en fotos intuitivas y descripciones breves de los platos. La presencia de un menú QR con fotos aumenta el promedio de la cuenta. Cuando los clientes pueden ver fotos apetitosas de los platos y leer sobre sus ingredientes y características, hace que el proceso de selección sea más atractivo y fomenta la orden de más platos o complementos y bebidas."
+    },
+    "fun": {
+      "title": "Ventajas",
+      "list": [
+        { "title": "Visualización", "text": "El cliente puede familiarizarse con el menú escaneando el código QR en la mesa del restaurante. No es necesario esperar a un camarero." },
+        { "title": "Multilingüe", "text": "Cambio conveniente de idioma en el menú: atrae a más clientes extranjeros." },
+        { "title": "Búsqueda rápida", "text": "Si el menú es extenso, la función de búsqueda ayuda a encontrar fácilmente lo que el cliente necesita o recibir recomendaciones necesarias." },
+        { "title": "Recomendaciones", "text": "Sus clientes tendrán la oportunidad de dejar sus reseñas, lo que ayudará a otros a tomar decisiones más informadas." },
+        { "title": "Informativo", "text": "Sus clientes obtendrán más información adicional sobre el restaurante (redes sociales, contraseña de Wi-Fi y contactos)." },
+        { "title": "Aumento del apetito", "text": "Las fotos aumentan el apetito, y el apetito aumenta el promedio de la cuenta." }
+      ]
+    },
+    "mod": {
+      "title": "Características",
+      "list": [
+        "Posibilidad de compartir el menú QR en sus redes sociales",
+        "Cantidad ilimitada de categorías y elementos",
+        "Posibilidad de ocultar y limitar la disponibilidad con un solo clic",
+        "Función de precio antiguo/nuevo",
+        "Posibilidad de marcar platos vegetarianos y picantes",
+        "Generación de QR desde la aplicación",
+        "Selección de moneda",
+        "Posibilidad de utilizar según sea necesario",
+        "Versión de menú para dispositivos móviles y de escritorio",
+        "Posibilidad de editar el menú de forma remota",
+        "Posibilidad de editar el menú de la red de restaurantes desde una sola cuenta",
+        "Posibilidad de listar ingredientes",
+        "Posibilidad de enumerar el menú en varios idiomas",
+        "Posibilidad de proporcionar información adicional (dirección, teléfono, contraseña de Wi-Fi, redes sociales)",
+        "Publicación de ofertas especiales"
+      ]
+    },
+    "comments": [
+      "Es mi primera vez en este restaurante, ¿qué recomiendas?",
+      "Tengo alergia a los frutos secos, ¿hay nueces aquí?",
+      "¿Qué platos tradicionales tienen en el menú?",
+      "¿Qué plato interesante y diferente puedo pedir del menú?",
+      "No entiendo nada, voy a buscar en Google Maps cómo se ve esto.",
+      "¿Qué tamaño tiene la porción? La última vez comí en exceso.",
+      "¿Qué tamaño tiene la porción? La última vez comí en exceso.",
+      "¡Qué suerte que al menos está en inglés!",
+      "¿Qué plato interesante y diferente puedo pedir hoy?"
+    ],
+    "quest": {
+      "title": "Preguntas y respuestas",
+      "list": [
+        {
+          "title": "¿Por qué es mejor el menú electrónico que la versión en papel o en PDF?",
+          "text": "El cliente puede familiarizarse con el menú escaneando el código QR en la mesa del restaurante. No es necesario esperar a un camarero que ofrezca la versión en papel."
+        },
+        {
+          "title": "¿Puedo probarlo antes para ver si nos conviene?",
+          "text": "El cliente puede familiarizarse con el menú escaneando el código QR en la mesa del restaurante. No es necesario esperar a un camarero que ofrezca la versión en papel."
+        },
+        {
+          "title": "¿Puedo modificar mi menú de forma independiente?",
+          "text": "El cliente puede familiarizarse con el menú escaneando el código QR en la mesa del restaurante. No es necesario esperar a un camarero que ofrezca la versión en papel."
+        },
+        {
+          "title": "¿Debo modificar el código QR después de realizar cambios en el menú?",
+          "text": "El cliente puede familiarizarse con el menú escaneando el código QR en la mesa del restaurante. No es necesario esperar a un camarero que ofrezca la versión en papel."
+        }
+      ]
+    },
+    "price": {
+      "title": "Costo del servicio de menú QR",
+      "list": [
+        { "price": 10, "period": "1 mes", "total": "Pago por 1 mes\n Total $10" },
+        { "price": 9.5, "period": "6 meses", "total": "Pago por 6 meses\n Total $57.6", "title": "Estacional" },
+        { "price": 8, "period": "1 año", "total": "Pago por 1 año\n Total $96" }
+      ],
+      "free": {
+        "title": "Período de prueba",
+        "text": "Puede probar nuestro servicio de forma gratuita durante 1 mes y decidir si le conviene."
+      }
+    }
+  },
+  "modal": {
+    "title": "Registrarse",
+    "name": "Su nombre:",
+    "resname": "Nombre del establecimiento:",
+    "mail": "Correo electrónico:",
+    "pas": {
+      "name": "Contraseña:",
+      "ph": "+5 caracteres"
+    },
+    "create": "Crear una cuenta",
+    "rule": "Nuestras condiciones de uso se encuentran disponibles en el siguiente <linkTag>enlace.</linkTag>",
+    "send": {
+      "title": "¡Gracias por registrarse!",
+      "text": "Nuestra aplicación está completando las últimas pruebas, pronto nos pondremos en contacto con usted para informarle sobre los próximos pasos."
+    },
+    "enter": {
+      "title": "Iniciar sesión",
+      "button": "Acceso",
+      "recovery": "Recuperar contraseña"
+    }
+  },
+  "header": {
+    "ukraine": "Somos de Ucrania y seguimos trabajando. Gracias por su apoyo. La información actualizada sobre la situación en Ucrania está disponible en el sitio oficial.",
+    "account": "Cuenta"
+  },
+  "footer": {
+    "contacts": "Contactos",
+    "rules": "Términos de uso"
+  },
+  "localeName": "Espana"
+}

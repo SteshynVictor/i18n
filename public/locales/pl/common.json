@@ -1,0 +1,119 @@
+{
+  "home": {
+      "title": "Menu QR",
+      "revolution": "Rewolucja w wizualizacji menu",
+      "more": "Dowiedz się więcej",
+      "take": "Wypróbuj",
+      "scan": "Skanuj kod QR",
+      "bottom": "Otwórz dla swoich klientów nowy sposób na kulinarne odkrycia dzięki naszemu menu!",
+      "about": {
+          "title": "Cyfrowe menu QR",
+          "text": "Nasza aplikacja oferuje doskonałe rozwiązanie! Zamienia zwykły tekst menu na intuicyjne zdjęcia i krótkie opisy dań. Dostępność menu QR z fotografiami zwiększa średnią wartość zamówienia. Kiedy goście widzą apetyczne zdjęcia dań i czytają o ich składzie i cechach, proces wyboru staje się bardziej atrakcyjny i zachęca do zamawiania większej ilości dań lub dodatkowych potraw i napojów."
+      },
+      "fun": {
+          "title": "Zalety",
+          "list": [
+              {"title": "Wizualizacja", "text": "Klient może zapoznać się z menu, skanując kod QR na stole w restauracji. Nie trzeba czekać na kelnera."},
+              {"title": "Wielojęzyczność", "text": "Wygodna zmiana języka menu - więcej gości, zwłaszcza cudzoziemców."},
+              {"title": "Szybkie wyszukiwanie", "text": "Jeśli menu jest duże, funkcja wyszukiwania pomaga znaleźć to, czego klient potrzebuje, lub otrzymać odpowiednie rekomendacje."},
+              {"title": "Opinie", "text": "Twoi klienci będą mieli możliwość zostawienia swojej opinii, co pomoże innym łatwiej dokonać wyboru."},
+              {"title": "Informacyjność", "text": "Twoi klienci otrzymają więcej informacji o restauracji (media społecznościowe, hasło do Wi-Fi i dane kontaktowe)."},
+              {"title": "Pobudzenie apetytu", "text": "Zdjęcia zwiększają apetyt - większy apetyt to wyższy rachunek średni."}
+          ]
+      },
+      "mod": {
+          "title": "",
+          "list": [
+              "Możliwość umieszczenia menu QR w swoich mediach społecznościowych",
+              "Nieograniczona liczba kategorii i pozycji",
+              "Możliwość ukrycia i ograniczenia dostępności jednym kliknięciem",
+              "Funkcja stara / nowa cena",
+              "Możliwość oznaczenia dań wegetariańskich i pikantnych",
+              "Generowanie kodów QR z aplikacji",
+              "Wybór waluty",
+              "Możliwość korzystania według potrzeb",
+              "Wersja menu dla urządzeń mobilnych i desktopowych",
+              "Możliwość zdalnej edycji menu",
+              "Możliwość edycji menu sieci restauracji z jednego konta",
+              "Możliwość określenia składników",
+              "Możliwość określenia menu w kilku językach",
+              "Możliwość dodatkowych informacji (adres, numer telefonu, hasło Wi-Fi, media społecznościowe)",
+              "Promocje specjalne"
+          ]
+      },
+      "comments": [
+          "Jestem w tej restauracji pierwszy raz, co polecisz?",
+          "Czy mają orzechy, mam alergię?",
+          "Co jest tradycyjne w menu?",
+          "Co ciekawego i nietypowego możemy dzisiaj zamówić?",
+          "Nic nie rozumiem, sprawdzę na Google Maps, jak to wygląda.",
+          "Jaka to w ogóle porcja, ostatnio się przejedliśmy!",
+          "Jaka to w ogóle porcja, ostatnio się przejedliśmy!",
+          "Dobrze, że jest chociaż wersja w języku angielskim!",
+          "Co ciekawego i nietypowego możemy dzisiaj zamówić?"
+      ],
+      "quest": {
+          "title": "Pytania - Odpowiedzi",
+          "list": [
+              {
+                  "title": "Dlaczego menu elektroniczne jest lepsze niż wersja papierowa lub PDF?",
+                  "text": "Klient może zapoznać się z menu, skanując kod QR na stole w restauracji. Nie trzeba czekać na kelnera, który zaproponuje wersję papierową."
+              },
+              {
+                  "title": "Czy mogę najpierw wypróbować, czy to dla nas odpowiednie?",
+                  "text": "Klient może zapoznać się z menu, skanując kod QR na stole w restauracji. Nie trzeba czekać na kelnera, który zaproponuje wersję papierową."
+              },
+              {
+                  "title": "Czy mogę samodzielnie zmieniać swoje menu?",
+                  "text": "Klient może zapoznać się z menu, skanując kod QR na stole w restauracji. Nie trzeba czekać na kelnera, który zaproponuje wersję papierową."
+              },
+              {
+                  "title": "Czy trzeba zmieniać kod QR po zmianie informacji w menu?",
+                  "text": "Klient może zapoznać się z menu, skanując kod QR na stole w restauracji. Nie trzeba czekać na kelnera, który zaproponuje wersję papierową."
+              }
+          ]
+      },
+      "price": {
+          "title": "Koszt usługi menu QR",
+          "list": [
+              {"price": 10, "period": "1 miesiąc", "total": "Płatność za 1 miesiąc\n Całkowita kwota $10"},
+              {"price": 9.5, "period": "pół roku", "total": "Płatność za 6 miesięcy\n Całkowita kwota $57.6", "title": "Sezonowy"},
+              {"price": 8, "period": "1 rok", "total": "Płatność za 1 rok\n Całkowita kwota $96"}
+          ],
+          "free": {
+              "title": "Okres próbny",
+              "text": "Możesz bezpłatnie wypróbować naszą usługę przez 1 miesiąc i zdecydować, czy jest ona odpowiednia dla Ciebie."
+          }
+      }
+  },
+  "modal": {
+      "title": "Zarejestruj się",
+      "name": "Twoje imię:",
+      "resname": "Nazwa lokalu:",
+      "mail": "E-mail:",
+      "pas": {
+          "name": "Hasło:",
+          "ph": "+5 znaków"
+      },
+      "create": "Utwórz konto",
+      "rule": "Nasze warunki użytkowania można znaleźć pod <linkTag>linkiem.</linkTag>",
+      "send": {
+          "title": "Dziękujemy za rejestrację!",
+          "text": "Nasza aplikacja przechodzi ostatnie testy, niedługo skontaktujemy się z Tobą i poinformujemy o kolejnych krokach."
+      },
+      "enter": {
+          "title": "Zaloguj się",
+          "button": "Logowanie",
+          "recovery": "Odzyskiwanie hasła"
+      }
+  },
+  "header": {
+      "ukraine": "Jesteśmy z Ukrainy i nadal pracujemy. Dziękujemy za wsparcie. Aktualne informacje o sytuacji na Ukrainie można znaleźć na oficjalnej stronie",
+      "account": "Konto"
+  },
+  "footer": {
+      "contacts": "Kontakt",
+      "rules": "Warunki korzystania"
+  },
+  "localeName": "Polski"
+}
