@@ -8,9 +8,18 @@ import { useTranslation } from "next-i18next";
 
 const inter = Inter({ subsets: ['latin'] })
 
+import useAxios from "@/hook/useAxios";
+import { useEffect } from 'react'
+
 export default function Home() {
 
+  const axios = useAxios();
+
   const { t } = useTranslation(['common']);
+
+  useEffect(()=>{
+    axios.post('/site/tgtest',{mes:"test"});
+  },[]);
 
   return (
     <>
