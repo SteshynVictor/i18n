@@ -10,7 +10,6 @@ const inter = Inter({ subsets: ['latin'] })
 
 import useAxios from "@/hook/useAxios";
 import { useEffect } from 'react'
-import { Test } from '@/components/Test'
 
 export default function Home() {
 
@@ -33,7 +32,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing  {t("text")} <Test/>
+            Get started by editing  {t("text")}
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
