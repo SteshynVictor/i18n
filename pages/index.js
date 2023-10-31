@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 import useAxios from "@/hook/useAxios";
 import { useEffect } from 'react'
+import { Test } from '@/components/Test'
 
 export default function Home() {
 
@@ -18,7 +19,7 @@ export default function Home() {
   const { t } = useTranslation(['common']);
 
   useEffect(()=>{
-    axios.post('/site/tgtest',{mes:"test"});
+    //axios.post('/site/tgtest',{mes:"test"});
   },[]);
 
   return (
@@ -32,7 +33,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing  {t("text")} 
+            Get started by editing  {t("text")} <Test/>
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
